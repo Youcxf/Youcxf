@@ -16,7 +16,7 @@
 <img src="headers/about-me.svg" alt="about me" width="100%" />
 
 Hi, I'm **Youcef Si-Ramdane**, a **third-year computer science student** at **Champlain College**. <br/>
-I build full-stack apps, work with microservices and DevOps
+I build full-stack apps, work with microservices, DevOps and a lot more!
 
 [linkedIn](https://www.linkedin.com/in/youcefsir/)
 
