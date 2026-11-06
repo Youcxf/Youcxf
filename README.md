@@ -96,7 +96,7 @@ I build full-stack apps, work with microservices, DevOps and a lot more!
       <img src="https://img.shields.io/badge/-devops-313131?style=flat-square&labelColor=313131&color=313131&logo=docker&logoColor=white" alt="devops" />
     </td>
     <td width="33%" valign="top">
-      <h4>Champlain Pet Clinic</h4>
+      <h4>Champlain PetClinic<br /><sub><a href="https://github.com/cgerard321/champlain_petclinic">cgerard321/champlain_petclinic</a></sub></h4>
       <p><em>Microservices management system built with Scrum.</em></p>
       <img src="https://img.shields.io/badge/-spring%20boot-313131?style=flat-square&labelColor=313131&color=313131&logo=springboot&logoColor=white" alt="spring boot" />
       <img src="https://img.shields.io/badge/-microservices-313131?style=flat-square&labelColor=313131&color=313131" alt="microservices" />
